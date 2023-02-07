@@ -2,5 +2,5 @@
  
 ## Data Diri
  
-Nama: Muhammad Akbarul Ihsan
+Nama: Muhammad Akbarul Ihsan <br>
 NPM: 2108107010044
